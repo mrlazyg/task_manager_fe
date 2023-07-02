@@ -1,5 +1,5 @@
 {
-  "name": "nestjs-course-frontend",
+  "name": "task_manager_fe",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
@@ -67,5 +67,6 @@
         }
       ]
     ]
-  }
+  },
+  "homepage": "https://mrlazyg.github.io/task_manager_fe"
 }
