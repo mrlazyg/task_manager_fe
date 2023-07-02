@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/task_manager_fe/static/css/main.4f3c997c.chunk.css",
-    "main.js": "/task_manager_fe/static/js/main.b199e3c5.chunk.js",
-    "main.js.map": "/task_manager_fe/static/js/main.b199e3c5.chunk.js.map",
-    "runtime~main.js": "/task_manager_fe/static/js/runtime~main.0b37d233.js",
-    "runtime~main.js.map": "/task_manager_fe/static/js/runtime~main.0b37d233.js.map",
-    "static/js/2.a3f30158.chunk.js": "/task_manager_fe/static/js/2.a3f30158.chunk.js",
-    "static/js/2.a3f30158.chunk.js.map": "/task_manager_fe/static/js/2.a3f30158.chunk.js.map",
-    "index.html": "/task_manager_fe/index.html",
-    "precache-manifest.b0edd2fb94f6975c44c829bb3d0be38b.js": "/task_manager_fe/precache-manifest.b0edd2fb94f6975c44c829bb3d0be38b.js",
-    "service-worker.js": "/task_manager_fe/service-worker.js",
-    "static/css/main.4f3c997c.chunk.css.map": "/task_manager_fe/static/css/main.4f3c997c.chunk.css.map"
+    "main.css": "https://mrlazyg.github.io/task_manager_fe/static/css/main.6e59f294.chunk.css",
+    "main.js": "https://mrlazyg.github.io/task_manager_fe/static/js/main.c0dd4209.chunk.js",
+    "main.js.map": "https://mrlazyg.github.io/task_manager_fe/static/js/main.c0dd4209.chunk.js.map",
+    "runtime~main.js": "https://mrlazyg.github.io/task_manager_fe/static/js/runtime~main.389d6dfb.js",
+    "runtime~main.js.map": "https://mrlazyg.github.io/task_manager_fe/static/js/runtime~main.389d6dfb.js.map",
+    "static/js/2.3809cb12.chunk.js": "https://mrlazyg.github.io/task_manager_fe/static/js/2.3809cb12.chunk.js",
+    "static/js/2.3809cb12.chunk.js.map": "https://mrlazyg.github.io/task_manager_fe/static/js/2.3809cb12.chunk.js.map",
+    "index.html": "https://mrlazyg.github.io/task_manager_fe/index.html",
+    "precache-manifest.54a0cae7522955a6fcce7be5072dbeec.js": "https://mrlazyg.github.io/task_manager_fe/precache-manifest.54a0cae7522955a6fcce7be5072dbeec.js",
+    "service-worker.js": "https://mrlazyg.github.io/task_manager_fe/service-worker.js",
+    "static/css/main.6e59f294.chunk.css.map": "https://mrlazyg.github.io/task_manager_fe/static/css/main.6e59f294.chunk.css.map"
   }
 }
