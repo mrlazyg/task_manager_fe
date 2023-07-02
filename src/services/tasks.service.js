@@ -22,7 +22,7 @@ export default class TasksService extends BaseHttpService {
   }
 
   updateTaskStatus(id, status) {
-    return this.patch(`tasks/${id}/status`, { status });
+    return this.patch(`tasks/${id}`, { status });
   }
 
   createTask(title, description) {
