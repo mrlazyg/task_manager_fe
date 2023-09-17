@@ -1,19 +1,19 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "2bad2949077c68f7adc27487a12de5ea",
+    "revision": "4909298f657ffc0cf37eadc268e24784",
     "url": "https://mrlazyg.github.io/task_manager_fe/index.html"
   },
   {
-    "revision": "7af71bdeb91cf39ceaf1",
+    "revision": "aee67a64948eb8cb6577",
     "url": "https://mrlazyg.github.io/task_manager_fe/static/css/main.6e59f294.chunk.css"
   },
   {
-    "revision": "58c5969a026c6c1a2a5d",
-    "url": "https://mrlazyg.github.io/task_manager_fe/static/js/2.3809cb12.chunk.js"
+    "revision": "6c9d2dc5ab860649e982",
+    "url": "https://mrlazyg.github.io/task_manager_fe/static/js/2.93137443.chunk.js"
   },
   {
-    "revision": "7af71bdeb91cf39ceaf1",
-    "url": "https://mrlazyg.github.io/task_manager_fe/static/js/main.c0dd4209.chunk.js"
+    "revision": "aee67a64948eb8cb6577",
+    "url": "https://mrlazyg.github.io/task_manager_fe/static/js/main.178902f1.chunk.js"
   },
   {
     "revision": "5b078e949f78770d1e0a",

@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "https://mrlazyg.github.io/task_manager_fe/static/css/main.6e59f294.chunk.css",
-    "main.js": "https://mrlazyg.github.io/task_manager_fe/static/js/main.c0dd4209.chunk.js",
-    "main.js.map": "https://mrlazyg.github.io/task_manager_fe/static/js/main.c0dd4209.chunk.js.map",
+    "main.js": "https://mrlazyg.github.io/task_manager_fe/static/js/main.178902f1.chunk.js",
+    "main.js.map": "https://mrlazyg.github.io/task_manager_fe/static/js/main.178902f1.chunk.js.map",
     "runtime~main.js": "https://mrlazyg.github.io/task_manager_fe/static/js/runtime~main.389d6dfb.js",
     "runtime~main.js.map": "https://mrlazyg.github.io/task_manager_fe/static/js/runtime~main.389d6dfb.js.map",
-    "static/js/2.3809cb12.chunk.js": "https://mrlazyg.github.io/task_manager_fe/static/js/2.3809cb12.chunk.js",
-    "static/js/2.3809cb12.chunk.js.map": "https://mrlazyg.github.io/task_manager_fe/static/js/2.3809cb12.chunk.js.map",
+    "static/js/2.93137443.chunk.js": "https://mrlazyg.github.io/task_manager_fe/static/js/2.93137443.chunk.js",
+    "static/js/2.93137443.chunk.js.map": "https://mrlazyg.github.io/task_manager_fe/static/js/2.93137443.chunk.js.map",
     "index.html": "https://mrlazyg.github.io/task_manager_fe/index.html",
-    "precache-manifest.54a0cae7522955a6fcce7be5072dbeec.js": "https://mrlazyg.github.io/task_manager_fe/precache-manifest.54a0cae7522955a6fcce7be5072dbeec.js",
+    "precache-manifest.c01d9337cc4f3e78312a8839ea10382d.js": "https://mrlazyg.github.io/task_manager_fe/precache-manifest.c01d9337cc4f3e78312a8839ea10382d.js",
     "service-worker.js": "https://mrlazyg.github.io/task_manager_fe/service-worker.js",
     "static/css/main.6e59f294.chunk.css.map": "https://mrlazyg.github.io/task_manager_fe/static/css/main.6e59f294.chunk.css.map"
   }
